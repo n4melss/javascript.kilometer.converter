@@ -1,0 +1,9 @@
+{
+  "name": "javascript.kilometer.converter",
+  "author": "N4MELESS",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "prompt": "^1.2.1"
+  }
+}
